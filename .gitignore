@@ -17,3 +17,6 @@ resultados_predicao/
 
 # Banco de dados de resultados (arquivo gerado)
 resultados_analises.db
+
+# Script que auxiliou a remoção de anotações desnecessárias
+limpar_datasets.py
