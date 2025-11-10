@@ -1,0 +1,19 @@
+# Ambientes Virtuais do Python
+.venv/
+venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de cache do YOLO (essenciais para ignorar)
+*.cache
+
+# Pasta de resultados dos Treinos (modelos .pt, gráficos)
+runs/
+
+# Pasta de resultados das Predições (imagens analisadas)
+resultados_predicao/
+
+# Banco de dados de resultados (arquivo gerado)
+resultados_analises.db
